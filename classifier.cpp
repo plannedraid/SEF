@@ -3,4 +3,7 @@ class Classifier {
  void train(){
   printf("%s","train()");
  }
+ void predict(){
+  printf("%s","predict()");
+ }
 }
