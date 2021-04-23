@@ -1,3 +1,4 @@
+//Custom class
 class Classifier {
  int data;
  void train(){
